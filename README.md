@@ -11,7 +11,7 @@ In order to install necessary packages run:
 $ npm install axios express multer mysql2
 ```
 
-MySQL server needs to be running. In order to create database run:
+MySQL server needs to be running. Please, look in the mysql.js to fill in the information. In order to create database run:
 ```
 CREATE DATABASE SmartParking;
 ```
